@@ -179,7 +179,7 @@ def video(path, model):
 
         # dalje se sa frejmom radi kao sa bilo kojom drugom slikom, npr
         cv2.imshow('after transformations', selected_regions)
-        cv2.waitKey(0)
+        cv2.waitKey(1)
 
     cap.release()
     cv2.destroyAllWindows()

@@ -3,10 +3,10 @@ file	sum
 video-0.avi	-17
 video-1.avi	-21
 video-2.avi	-12
-video-3.avi	-21
-video-4.avi	-19
-video-5.avi	38
-video-6.avi	-42
+video-3.avi	-55
+video-4.avi	-29
+video-5.avi	11
+video-6.avi	-67
 video-7.avi	18
-video-8.avi	-37
+video-8.avi	-11
 video-9.avi	7

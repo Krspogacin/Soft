@@ -13,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Project.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="142" column="35" lean-forward="true" selection-start-line="142" selection-start-column="35" selection-end-line="142" selection-end-column="35" />
+            <state relative-caret-position="-197">
+              <caret line="181" column="21" selection-start-line="181" selection-start-column="21" selection-end-line="181" selection-end-column="21" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
@@ -41,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="952" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
@@ -214,8 +214,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Project.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="142" column="35" lean-forward="true" selection-start-line="142" selection-start-column="35" selection-end-line="142" selection-end-column="35" />
+        <state relative-caret-position="-197">
+          <caret line="181" column="21" selection-start-line="181" selection-start-column="21" selection-end-line="181" selection-end-column="21" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
